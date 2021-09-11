@@ -2367,7 +2367,6 @@ export default `# This MVPS HOSTS file is a free download from:            #
 0.0.0.0 script.crsspxl.com
 0.0.0.0 tag.crsspxl.com
 0.0.0.0 cam.demdex.net
-0.0.0.0 dpm.demdex.net
 0.0.0.0 everydayhealth.demdex.net
 0.0.0.0 fairfaxau.demdex.net
 0.0.0.0 gm.demdex.net
